@@ -1,12 +1,11 @@
-## Personal Portfolio
+This is my learning project
 
-### [Live Site](https://jsmasterypro.com)
+Shortly is web app for shorten link, integrated wit shrtco.de
 
-![Portfolio Website](https://i.ibb.co/WgPMpts/image.png)
 
-This is a code repository for the corresponding video tutorial. Your portfolio is your resume and your business card.
-
-In this video, we will create a full Personal Development Portfolio. We're going to use React and Next.js.
+This web use React and Next.js.
 
 Setup:
 - run ```npm i && npm start```
+
+Thanks to JSMastery
